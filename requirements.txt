@@ -1,2 +1,2 @@
-botd.py
+discord.py
 flask
